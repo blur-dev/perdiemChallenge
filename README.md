@@ -87,7 +87,7 @@ export const auth = getAuth(app);
 
 ## Loom Walkthrough Video
 
-[▶️ Click to watch the app demo](https://www.loom.com/share/your-loom-video-link)
+[▶️ Click to watch the app demo](https://www.loom.com/share/9f1fe97af8884b73ba12adfea67bddb2?sid=70f56e89-85ab-42e0-bc33-41922c5cf6bb)
 
 > Replace this with your own Loom recording URL.
 
